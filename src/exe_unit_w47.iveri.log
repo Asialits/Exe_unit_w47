@@ -1,0 +1,3 @@
+exe_unit_w47.sv:37: sorry: constant selects in always_* processes are not currently supported (all bits will be included).
+exe_unit_w47.sv:37: sorry: constant selects in always_* processes are not currently supported (all bits will be included).
+exe_unit_w47.sv:37: sorry: constant selects in always_* processes are not currently supported (all bits will be included).
